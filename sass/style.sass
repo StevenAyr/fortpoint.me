@@ -1,0 +1,43 @@
+@import "compass"
+@import "compass/reset"
+
+// FONTS
+$hed-font: "bebas-neue", "Bebas Neue", sans-serif
+$body-font: "futura-pt", "Futura", sans-serif
+
+// COLORS
+$medium-gray: #D0D2D3
+$light-gray: #E6E6E6
+$dark-gray: #A7A9AC
+$charcoal: #6D6E71
+$blue: #4581C2
+$dark-blue: #2957A4
+$text-light: #FFF
+
+// CONTAINERS
+$gutter: 40px
+$top-padding: 70px
+$aside-gutter: 20px
+
+$nav-min: 172px
+$nav-max: 235px
+
+$container-min: 852px // container-min + $nav-min = 1024px; must not exceed
+$container-max: 1020px
+
+// BREAKPOINTS
+$phablet: 500px
+$desktop: $nav-min + $container-min // must be less than 1024px
+$widescreen: $nav-max + $container-max
+
+@import "icon-large/*.png"
+@import "icon-small/*.png"
+
+@import "base"
+@import "header"
+@import "home"
+@import "story"
+@import "clients"
+@import "connect"
+@import "team"
+@import "footer"

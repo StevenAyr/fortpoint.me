@@ -1,6 +1,14 @@
-*.pyc
-*.DS_Store
-*~
-settings_local.*py
-*.sublime*
-*.sass-cache
+# Workflow
+.sass-cache/
+codekit-config.json
+error_log
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db

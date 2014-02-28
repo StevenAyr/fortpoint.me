@@ -1,8 +1,0 @@
-.clearfix { zoom:1 } /* For IE hasLayout */
-
-#wrapper {
-	overflow: visible;
-}
-.list-page .col li a {
-	float:left;
-}
