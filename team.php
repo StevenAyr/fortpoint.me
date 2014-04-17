@@ -30,19 +30,42 @@
         </div>
       </aside>
       <ul class="contact-methods">
-        <li class="mobile"><a href="tel:857-498-1150">857-498-1150</a></li>
+        <li class="mobile"><a href="tel:617-765-2232">617-765-2232</a></li>
         <li class="email"><a href="mailto:joel@fortpointlegal.com">joel@fortpointlegal.com</a></li>
         <li class="twitter"><a href="http://twitter.com/hackercounsel/" target="_blank">@hackercounsel</a></li>
         <li class="github"><a href="http://github.com/joelgkinney/" target="_blank">joelgkinney</a></li>
         <li class="linkedin"><a href="http://www.linkedin.com/in/joelgkinney" target="_blank">Joel G. Kinney</a></li>
       </ul>
     </li>
-
+    <li class="member">
+      <div class="bio">
+        <h2>Steven M. Ayr</h2>
+        <p class="title">Business Counsel</p>
+        <p>Steven has served the small business, startup, and artist communities since starting his own practice in 2009. Steven has experience structuring organizations from formation to dissolution, negotiating, drafting, and revising the contracts that make businesses tick, and litigating disputes when relationships break down. He is our resident intellectual property nerd and helps clients leverage copyright, trademark and trade secret protections to develop their products, grow their brands, and succeed in the marketplace.</p>
+      </div>
+      <aside class="credentials">
+        <div>
+          <img src="../img/team/steve.jpg">
+          <h3>Education</h3>
+          Boston College, BA 2005<br/>
+          Catholic University, JD 2008<br/>
+        </div>
+        <div>
+          <h3>Admissions</h3>
+          Massachusetts and Connecticut
+        </div>
+      </aside>
+      <ul class="contact-methods">
+        <li class="mobile"><a href="tel:617-765-2233">617-765-2233</a></li>
+        <li class="twitter"><a href="http://twitter.com/stevenayr/" target="_blank">@stevenayr</a></li>
+        <li class="linkedin"><a href="http://www.linkedin.com/in/stevenayr" target="_blank">Steven M. Ayr</a></li>
+      </ul>
+    </li>    
     <li class="member">
       <div class="bio">
         <h2>Daniel Paradis</h2>
-        <p class="title">Counsel</p>
-        <p>Dan is an experienced corporate and tax attorney who often serves as outside general counsel for technology companies. Dan has experience in private and public practice having worked both in a boutique Boston firm and the legislature for the State of Vermont. Dan focuses his practice on startup technology companies, software and professional services contracts, licensing and distribution agreements. And although he does not like to mention it, Dan is also a war hero and a purple heart recipient.</p>
+        <p class="title">Sr. Business Counsel</p>
+        <p>Dan is an experienced corporate and tax attorney who serves as outside general counsel for companies in a broad range of industries. For both startup and mature companies, he provides legal and business advice on all aspects of a business - from formation to financing, founder and shareholder rights, executive compensation, mergers and acquisitions, sales and other exits. Dan also provides day-to-day counsel to companies on a variety of common legal issues such as lease negotiations, asset purchases and sales, employment and independent contractor matters, professional services contracts and employee incentive programs. Dan’s passion is counseling companies in the technology sector on software licensing matters and the intersection of open source software with commercial software development. Dan has experience in the public sector having worked for the Vermont Legislature and is somewhat of a tax policy wonk.</p>
       </div>
       <aside class="credentials">
         <div>
@@ -59,9 +82,34 @@
         </div>
       </aside>
       <ul class="contact-methods">
-        <li class="mobile"><a href="tel:617-470-5049">617-470-5049</a></li>
+        <li class="mobile"><a href="tel:617-765-2252">617-765-2252</a></li>
         <li class="email"><a href="mailto:dan@fortpointlegal.com">dan@fortpointlegal.com</a></li>
-        <li class="linkedin"><a href="http://www.linkedin.com/in/danparadis" target="_blank">Daniel Paradis</a></li>
+        <li class="twitter"><a href="http://twitter.com/dan_paradis/" target="_blank">@dan_paradis</a></li>
+        <li class="linkedin"><a href="http://www.linkedin.com/in/danparadis" target="_blank">Daniel Paradis</a></li> 
+      </ul>
+    </li>
+    <li class="member">
+      <div class="bio">
+        <h2>Rebecca Green Neale</h2>
+        <p class="title">Litigation Counsel</p>
+        <p>Rebecca is a civil litigator with particular experience in consumer and landlord/tenant law. She has worked for the highest state courts in New York and California, the California and Massachusetts Attorney Generals, and litigated class action cases nationwide. Rebecca is also co-founder of the lawtech startup As Amended, which provides statutes to legal research services and other legal startups.</p>
+      </div>
+      <aside class="credentials">
+        <div>
+          <img src="../img/team/rebecca.jpg">
+          <h3>Education</h3>
+          University of Rochester, BA 2000<br/>
+          University of California, Hastings College of the Law, JD 2007
+        </div>
+        <div>
+          <h3>Admissions</h3>
+          Massachusetts and New York
+        </div>
+      </aside>
+      <ul class="contact-methods">
+        <li class="mobile"><a href="tel:617-765-2253">617-765-2253</a></li>
+        <li class="twitter"><a href="http://twitter.com/RGreenNeale/" target="_blank">@RGreenNeale</a></li>
+        <li class="linkedin"><a href="http://www.linkedin.com/in/rebeccaneale" target="_blank">Rebecca Green Neale</a></li> 
       </ul>
     </li>
 
