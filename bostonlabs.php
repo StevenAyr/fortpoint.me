@@ -9,12 +9,12 @@
 
 <section>
 <h2>COMMUNITY</h2>
-<p>WeWork Labs is a community within our community–an open floor concept designed to provide additional support for members who seek it. While some of our locations have a strong concentration in a particular field like technology, design or entertainment.</p>
+<p>WeWork Labs is a community within our community–an open floor concept designed to provide additional support for members who seek it.</p>
 </section>
 
 <section>
 <h2>MENTORING</h2>
-<p>Labs mentors are entrepreneurs, investors, marketers, finance professionals and others who volunteer their expertise to help entrepreneurs. In addition to the official mentorship pairings, MassChallege facilitates countless other meetings between experts and entrepreneurs. Mentors and speakers host office hours to hold brief meetings with entrepreneurs looking for advice or introductions.</p>
+<p>Labs mentors are entrepreneurs, investors, marketers, finance professionals and others who volunteer their expertise to help entrepreneurs. In addition to the official mentorship pairings, Labs facilitates countless other meetings between experts and entrepreneurs. Mentors and speakers host office hours to hold brief meetings with entrepreneurs looking for advice or introductions.</p>
 </section>
 
 <section>
