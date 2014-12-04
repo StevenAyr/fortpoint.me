@@ -9,8 +9,7 @@
 </div>
 
 <section>
-<h2>Feb. 28 - Mar. 7, 2015</h2>
-<p>all inclusive trip<br> airfare + hotel + guided tours + special events</p>
+<h2>Feb. 28 - Mar. 7, 2015 <br> Register <a style="color: black;" href="http://www.israeltrek.co.il/#!wework/c1kah" target=" now">now</a></h2>
 </section>
 
 <section>
