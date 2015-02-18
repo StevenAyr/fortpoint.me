@@ -10,6 +10,14 @@
 <section>
   <ul class="companies">
     <li>
+      <a href="http://www.grapevinelogic.com" class="company">
+        <img src="../img/clients/grapevine.png" class="wide"/>
+        <p class="description">collaborate with the best creators on Youtube</p>
+        <p class="company-name">grapevine</p>
+      </a>
+    </li>
+
+    <li>
       <a href="http://bocoup.com/" class="company">
         <img src="../img/clients/bocoup.png" class="tall"/>
         <p class="description">moving the open web forward</p>
@@ -22,6 +30,14 @@
         <img src="../img/clients/jquery.png" class="wide"/>
         <p class="description">supporting the advancement of the web through JavaScript</p>
         <p class="company-name">jQuery Foundation</p>
+      </a>
+    </li>
+
+    <li>
+      <a href="http://www.everybodyfights.com/" class="company">
+        <img src="../img/clients/theclub.png" class="wide"/>
+        <p class="description">the boxing fitness authority</p>
+        <p class="company-name">The Club by George Foreman III</p>
       </a>
     </li>
 
@@ -50,6 +66,22 @@
     </li>
 
     <li>
+      <a href="http://www.bucaboot.com" class="company">
+        <img src="../img/clients/bucaboot.png" class="wide"/>
+        <p class="description">Secure, flexible storage for the practical biker. Stop worrying about your stuff &amp; go!</p>
+        <p class="company-name">Buca Boot</p>
+      </a>
+    </li>
+  
+    <li>
+      <a href="http://www.geekhousebikes.com/" class="company">
+        <img src="../img/clients/geekhouse.png" class="wide"/>
+        <p class="description">custom fit TIG welded steel frames and forks</p>
+        <p class="company-name">Geekhouse Bikes</p>
+      </a>
+    </li>
+
+    <li>
       <a href="http://www.luvnlocal.com/" class="company">
         <img src="../img/clients/luvn_local.png" class="tall"/>
         <p class="description">shop local, stay local</p>
@@ -58,10 +90,18 @@
     </li>
 
     <li>
-      <a href="http://gather.at" class="company">
-        <img src="../img/clients/gatherat.png" class="tall"/>
-        <p class="description">find out what's happening nearby</p>
-        <p class="company-name">gather.at</p>
+      <a href="http://www.cuppow.com/" class="company">
+        <img src="../img/clients/cuppow.png" class="wide"/>
+        <p class="description">a simple eco-friendly alternative to poor-performing and messy disposable hot cups, and over-built and expensive travel mugs</p>
+        <p class="company-name">cuppow!</p>
+      </a>
+    </li>
+
+    <li>
+      <a href="http://www.localtable.co/" class="company">
+        <img src="../img/clients/localtable.png" class="wide"/>
+        <p class="description">a simple turnkey web and mobile application to help you manage, schedule and optimize your workforce</p>
+        <p class="company-name">LocalTable</p>
       </a>
     </li>
 
@@ -85,14 +125,6 @@
       <a href="http://www.pool.ntp.org/en/" class="company">
         <img src="../img/clients/ntp_pool.png" alt="NTP Pool Project">
         <p class="description">a big virtual cluster of timeservers providing reliable easy to use NTP service for millions of clients</p>        <p class="company-name">NTP Pool Project</p>
-      </a>
-    </li>
-
-    <li>
-      <a href="http://www.candy.com/" class="company">
-        <img src="../img/clients/candy.jpg" class="wide"/>
-        <p class="description">we make it easy to be like a kid in a candy store</p>
-        <p class="company-name">candy.com</p>
       </a>
     </li>
   </ul>
