@@ -57,7 +57,9 @@
       </aside>
       <ul class="contact-methods">
         <li class="mobile"><a href="tel:617-765-2233">617-765-2233</a></li>
+        <li class="email"><a href="mailto:steve@fortpointlegal.com">steve@fortpointlegal.com</a></li>
         <li class="twitter"><a href="http://twitter.com/stevenayr/" target="_blank">@stevenayr</a></li>
+        <li class="github"><a href="http://github.com/stevenayr/" target="_blank">StevenAyr</a></li>
         <li class="linkedin"><a href="http://www.linkedin.com/in/stevenayr" target="_blank">Steven M. Ayr</a></li>
       </ul>
     </li>    
