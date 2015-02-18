@@ -18,34 +18,10 @@
     </li>
 
     <li>
-      <a href="http://www.luvnlocal.com/" class="company">
-        <img src="../img/clients/luvn_local.png" class="tall"/>
-        <p class="description">shop local, stay local</p>
-        <p class="company-name">LuvnLocal</p>
-      </a>
-    </li>
-
-    <li>
       <a href="http://www.jquery.org" class="company">
         <img src="../img/clients/jquery.png" class="wide"/>
         <p class="description">supporting the advancement of the web through JavaScript</p>
         <p class="company-name">jQuery Foundation</p>
-      </a>
-    </li>
-
-    <li>
-      <a href="http://www.candy.com/" class="company">
-        <img src="../img/clients/candy.jpg" class="wide"/>
-        <p class="description">we make it easy to be like a kid in a candy store</p>
-        <p class="company-name">candy.com</p>
-      </a>
-    </li>
-
-    <li>
-      <a href="http://gather.at" class="company">
-        <img src="../img/clients/gatherat.png" class="tall"/>
-        <p class="description">find out what's happening nearby</p>
-        <p class="company-name">gather.at</p>
       </a>
     </li>
 
@@ -66,6 +42,30 @@
     </li>
 
     <li>
+      <a href="http://www.onsourceonline.com/" class="company">
+        <img src="../img/clients/onsource.png" alt="OnSource">
+        <p class="description">digital photos or HD video of anything, anywhere across the nation within 24 hours</p>
+        <p class="company-name">OnSource</p>
+      </a>
+    </li>
+
+    <li>
+      <a href="http://www.luvnlocal.com/" class="company">
+        <img src="../img/clients/luvn_local.png" class="tall"/>
+        <p class="description">shop local, stay local</p>
+        <p class="company-name">LuvnLocal</p>
+      </a>
+    </li>
+
+    <li>
+      <a href="http://gather.at" class="company">
+        <img src="../img/clients/gatherat.png" class="tall"/>
+        <p class="description">find out what's happening nearby</p>
+        <p class="company-name">gather.at</p>
+      </a>
+    </li>
+
+    <li>
       <a href="https://www.good-benefits.com/" class="company">
         <img src="../img/clients/good_benefits.png" class="wide">
         <p class="description">the 401k giving plan for charity</p>
@@ -82,18 +82,17 @@
     </li>
 
     <li>
-      <a href="http://www.onsourceonline.com/" class="company">
-        <img src="../img/clients/onsource.png" alt="OnSource">
-        <p class="description">digital photos or HD video of anything, anywhere across the nation within 24 hours</p>
-        <p class="company-name">OnSource</p>
+      <a href="http://www.pool.ntp.org/en/" class="company">
+        <img src="../img/clients/ntp_pool.png" alt="NTP Pool Project">
+        <p class="description">a big virtual cluster of timeservers providing reliable easy to use NTP service for millions of clients</p>        <p class="company-name">NTP Pool Project</p>
       </a>
     </li>
 
     <li>
-      <a href="http://www.pool.ntp.org/en/" class="company">
-        <img src="../img/clients/ntp_pool.png" alt="NTP Pool Project">
-        <p class="description">a big virtual cluster of timeservers providing reliable easy to use NTP service for millions of clients</p>
-        <p class="company-name">NTP Pool Project</p>
+      <a href="http://www.candy.com/" class="company">
+        <img src="../img/clients/candy.jpg" class="wide"/>
+        <p class="description">we make it easy to be like a kid in a candy store</p>
+        <p class="company-name">candy.com</p>
       </a>
     </li>
   </ul>
